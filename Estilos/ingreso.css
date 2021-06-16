@@ -1,0 +1,143 @@
+ *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+} 
+
+
+h1{
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    
+}
+
+.ingre{
+
+    font-size: 40px;
+}
+
+.use-1
+{
+    
+    
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 30px;
+    text-transform: uppercase; 
+    
+}
+
+.use-2
+{
+    
+    margin-top: 50px;
+    margin-left: 10px;
+    width: 250px;
+    height: 35px;
+     
+
+}
+
+.use-3
+{
+    
+    margin-top: 50px;
+    margin-left:150px;
+    font-size: 30px; 
+    text-transform: uppercase;
+    margin-bottom: 50px;
+
+}
+
+.use-4
+{  
+    margin-top: 50px;
+    margin-left: 10px;
+    width: 250px;
+    height: 35px;
+    margin-bottom: 50px;
+}
+
+.ingresar
+{
+    margin-top: 0px;
+    background-color: #4F65FF;
+    padding: 20px;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 35px;
+    color: white;
+
+}
+
+.message
+{
+    margin-top: 25px;
+    margin-right: -10px;
+    font-size: 40px;
+    text-decoration: underline;
+
+}
+    
+.noregistro
+{
+    margin-top: 25px;
+    margin-right: -10px;
+    font-size: 40px;
+    
+
+}
+
+body
+{
+text-align: center;
+background-image: url("../Estilos/imagenes css/fondo\ de\ pagina.jpg");
+background-repeat: no-repeat center center fixed;
+background-size:cover;
+background-attachment: fixed;
+
+}
+
+.agrupar 
+{
+    width: 960px;
+    border: 1px solid black;
+    margin: 15px auto;
+     padding: 40px;
+     background: white;
+     margin-top: 200px;
+     margin-bottom: 170px;
+    
+    
+}
+
+.final
+{
+    clear: both;
+    font: 14px verdana;
+    background: #ccc;
+    padding: 20px;
+    color: black;
+    border:1px solid #999999;
+    margin-top: 100px;
+  
+}
+
+.google
+{   margin-top: 50px;
+    background-color: orangered;
+    padding: 20px;
+    font-size: 30px;
+    padding-left: 38px;
+    padding-right: 35px;
+}
+
+.facebook
+{   margin-top: 20px;
+    background-color: #4F65FF ;
+    padding: 20px;
+    font-size: 30px;
+}
